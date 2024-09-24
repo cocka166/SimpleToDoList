@@ -1,0 +1,1 @@
+This is a simple To-Do List application written in Java. The application allows users to manage their tasks efficiently by adding, viewing, and removing tasks. Tasks are stored in a List and are saved to a CSV file, ensuring that the data persists between application sessions.
