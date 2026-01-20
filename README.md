@@ -12,13 +12,4 @@ Jednoduchá a efektivní desktopová aplikace pro správu úkolů postavená na 
 * **Storage:** CSV (Comma-Separated Values)
 * **Struktura dat:** Objektový model reprezentující úkol (ID, popis, stav).
 
-## Formát uložení dat
-Aplikace využívá textový formát pro snadnou čitelnost a přenositelnost. Data jsou strukturována následovně:
-`ID;Název_úkolu;Stav;Datum_vytvoření`
-
-## Instalace a spuštění
-1. Naklonujte repozitář:
-   ```bash
-   git clone [https://github.com/vase-jmeno/simple-todo-list.git](https://github.com/vase-jmeno/simple-todo-list.git)
-
 
